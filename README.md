@@ -29,3 +29,5 @@ smh like this
 after this you are done
 just open program and set FOV 
 Note - i haven't added set up key the default key is Shift just hold shift 
+
+Download link - https://file.io/6pmtycmuu533
