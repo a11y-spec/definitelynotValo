@@ -13,6 +13,8 @@ for you win system you have to find either ur system is 32 bit or 64 bit
 
 smh like this
 
-*Also dont forget to add pytohn to Path*
+**Also dont forget to add python to Path**
+
+[![image.png](https://i.postimg.cc/4NtNX0hL/image.png)](https://postimg.cc/PPXk42yY)
 
 after isntalling you will get a requirements.txt file
