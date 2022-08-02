@@ -12,3 +12,7 @@ for you win system you have to find either ur system is 32 bit or 64 bit
 
 
 smh like this
+
+*Also dont forget to add pytohn to Path*
+
+after isntalling you will get a requirements.txt file
