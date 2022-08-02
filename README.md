@@ -26,3 +26,6 @@ smh like this
 [![image.png](https://i.postimg.cc/sxbY7LVH/image.png)](https://postimg.cc/T5q5XC5n)
 
 
+after this you are done
+just open program and set FOV 
+Note - i haven't added set up key the defaul key is Shift just hold shift 
