@@ -23,5 +23,6 @@ just open cmd in that path where the files are present and run
 ```pip install -r requirements.txt```
 
 smh like this
-
 [![image.png](https://i.postimg.cc/sxbY7LVH/image.png)](https://postimg.cc/T5q5XC5n)
+
+
