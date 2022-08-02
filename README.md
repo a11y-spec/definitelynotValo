@@ -31,3 +31,6 @@ just open program and set FOV
 Note - i haven't added set up key the default key is Shift just hold shift 
 
 
+Output ->
+
+[![image.png](https://i.postimg.cc/BvVVD27Z/image.png)](https://postimg.cc/GBvKnT16)
