@@ -17,4 +17,7 @@ smh like this
 
 [![image.png](https://i.postimg.cc/4NtNX0hL/image.png)](https://postimg.cc/PPXk42yY)
 
-after isntalling you will get a requirements.txt file
+after installing you will get a requirements.txt file
+
+just open cmd in that path where the files are present and run 
+```pip install -r requirements.txt```
